@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bousui/ElectronSample#readme",
   "devDependencies": {
-    "electron": "^4.0.1"
+    "electron": "^4.0.1",
+    "electron-packager": "^13.0.1"
   }
 }
