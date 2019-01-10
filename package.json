@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bousui/ElectronSample/issues"
   },
-  "homepage": "https://github.com/bousui/ElectronSample#readme"
+  "homepage": "https://github.com/bousui/ElectronSample#readme",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
 }
